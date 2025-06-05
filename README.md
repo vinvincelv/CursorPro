@@ -1,9 +1,9 @@
 # Cursor Pro 自动化工具使用说明
-使用方法 https://mp.weixin.qq.com/s/-BQIQV4t3vVE15CecWHlJA
+使用方法： https://mp.weixin.qq.com/s/-BQIQV4t3vVE15CecWHlJA
 
 ## 软件
- ./screen/1.png
-  ./screen/2.png
+ <img src="./screen/1.png" width="800"/>
+  <img src="./screen/2.png" width="800"/> 
 
 ## 公众号 回复 1 获取 qq 群
 
